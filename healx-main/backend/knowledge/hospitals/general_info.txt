@@ -1,0 +1,25 @@
+HealX Hospital Database Information:
+
+1. SUM Hospital:
+- Location: Kalinga Nagar, Bhubaneswar, Odisha
+- Phone: 0674-2386281
+- Specialties: Cardiology (Dr. Ramesh), ENT (Dr. Ayush), Dentist, Neurology, General Medicine.
+- Status: Open 24/7.
+- Average crowd: High.
+- Rating: 4.5/5.
+
+2. AIIMS Bhubaneswar:
+- Location: Sijua, Patrapada, Bhubaneswar, Odisha
+- Phone: 0674-2472200
+- Specialties: Cardiology, ENT, Neurology (Dr. Panda), Oncology, General Medicine.
+- Working Hours: 08:00 AM - 08:00 PM.
+- Average crowd: Very High.
+- Rating: 4.8/5.
+
+3. Capital Hospital:
+- Location: Unit-6, Bhubaneswar, Odisha
+- Phone: 0674-2391983
+- Specialties: ENT, Dentist (Dr. Singh), General Medicine.
+- Status: Open 24/7.
+- Average crowd: Medium.
+- Rating: 4.2/5.
